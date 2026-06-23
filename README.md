@@ -1,51 +1,29 @@
 <h1 align="center">Hi 👋, I'm Othmane Najah</h1>
 <h3 align="center">Computer Engineering Student | Full Stack Developer | AI Enthusiast</h3>
 
+<p align="center">
+  <a href="https://github.com/othmane5000">
+    <img src="https://komarev.com/ghpvc/?username=othmane5000&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Engineering Student at EMSI - Casablanca
-
-💻 Full Stack Developer passionate about Web Development and AI
-
-🌱 Currently learning Artificial Intelligence and Machine Learning
-
-⚡ Curious, autonomous and motivated to build impactful applications
+- 🎓 Computer Engineering Student at EMSI Casablanca
+- 💻 Passionate Full Stack Developer
+- 🤖 Interested in Artificial Intelligence and Data Science
+- 🌱 Currently learning AI and Machine Learning
+- ⚡ Curious, autonomous and always eager to learn
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-
-### Backend
-- Laravel
-- Symfony
-- Django
-
-### Programming Languages
-- Python
-- Java
-- C
-- C++
-
-### Databases
-- MySQL
-- SQL
-- T-SQL
-- Oracle SQL
-
-### Tools & Technologies
-- Git
-- GitHub
-- Linux
-- UML
-- Jira
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,symfony,python,django,java,c,cpp,mysql,git,github,linux,jira&perline=6" />
+</p>
 
 ---
 
@@ -64,9 +42,8 @@ Application developed with React.js for managing students and grades.
 
 ## 📜 Certifications
 
-🏆 Python Programming Fundamentals - Coursera
-
-🏆 Introduction to Object-Oriented Programming (C++) - Coursera
+- 🏆 Python Programming Fundamentals - Coursera
+- 🏆 Introduction to Object-Oriented Programming (C++) - Coursera
 
 ---
 
@@ -80,30 +57,45 @@ Application developed with React.js for managing students and grades.
 
 ## 🤝 Soft Skills
 
-✔️ Teamwork
-
-✔️ Leadership
-
-✔️ Effective Communication
-
-✔️ Time Management
+- ✔ Teamwork
+- ✔ Leadership
+- ✔ Communication
+- ✔ Time Management
 
 ---
 
 ## 📫 Connect with Me
 
-📧 Email: najahothmane123@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/othmane-najah-a006b9314
-
-🌐 GitHub: https://github.com/othmane5000
+<p align="left">
+<a href="https://www.linkedin.com/in/othmane-najah-a006b9314">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:najahothmane123@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=othmane5000&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=othmane5000&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmane5000&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=othmane5000&layout=compact&theme=tokyonight)
+---
 
-![Streak Stats](https://streak-stats.demolab.com/?user=othmane5000&theme=tokyonight)
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=othmane5000&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=othmane5000&theme=tokyonight&row=1&column=6" />
+</p>
