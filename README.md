@@ -9,17 +9,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Computer Engineering Student at EMSI Casablanca
-- 💻 Passionate Full Stack Developer
-- 🤖 Interested in Artificial Intelligence and Data Science
-- 🌱 Currently learning AI and Machine Learning
-- ⚡ Curious, autonomous and always eager to learn
+-  Computer Engineering Student at EMSI Casablanca
+-  Passionate Full Stack Developer
+-  Interested in Artificial Intelligence and Data Science
+-  Currently learning AI and Machine Learning
+-  Curious, autonomous and always eager to learn
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,symfony,python,django,java,c,cpp,mysql,git,github,linux,jira&perline=6" />
@@ -27,27 +27,27 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🎬 Cinema-Rev
+###  Cinema-Rev
 Movie review platform built with React.js, Laravel and MySQL.
 
-### ⚽ Sports Club Management System
+###  Sports Club Management System
 Web application developed with Symfony and MySQL.
 
-### 📚 OFPPT Grade Management System
+###  OFPPT Grade Management System
 Application developed with React.js for managing students and grades.
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-- 🏆 Python Programming Fundamentals - Coursera
-- 🏆 Introduction to Object-Oriented Programming (C++) - Coursera
+-  Python Programming Fundamentals - Coursera
+-  Introduction to Object-Oriented Programming (C++) - Coursera
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 - 🇲🇦 Arabic : Native
 - 🇫🇷 French : Intermediate
@@ -55,7 +55,7 @@ Application developed with React.js for managing students and grades.
 
 ---
 
-## 🤝 Soft Skills
+##  Soft Skills
 
 - ✔ Teamwork
 - ✔ Leadership
@@ -64,7 +64,7 @@ Application developed with React.js for managing students and grades.
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/othmane-najah-a006b9314">
@@ -77,7 +77,7 @@ Application developed with React.js for managing students and grades.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=othmane5000&show_icons=true&theme=tokyonight" height="180em"/>
@@ -86,7 +86,7 @@ Application developed with React.js for managing students and grades.
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=othmane5000&theme=tokyonight" />
@@ -94,7 +94,7 @@ Application developed with React.js for managing students and grades.
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=othmane5000&theme=tokyonight&row=1&column=6" />
